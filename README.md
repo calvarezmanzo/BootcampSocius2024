@@ -45,7 +45,7 @@ Los nombres de los cursos se actualizarán con cada nueva clase. <br>
 Al final de cada sesión, indicaremos el software que deberá instalarse para la clase siguiente.
 
 #### Kick OFF
-[Te compartimos el enlace del Kick Off por si te lo perdiste.](https://gist.github.com/BiarqGabriel/535122a685b1768dc04bb5be4f0e0904)
+[Te compartimos la presentación por si te la perdiste.](https://github.com/calvarezmanzo/BootcampSocius2024/blob/main/Bienvenida%20-%20Bootcamp%202024.pdf)
 
 
 ---
