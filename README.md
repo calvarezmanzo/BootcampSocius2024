@@ -14,7 +14,7 @@
 * <b>26-06</b> Hola Mundo desde Angular :). 
 * <b>03-07</b>. 
 * <b>10-07</b>. 
-* <b>17-07 Primer Challenger</b>.
+* <b>17-07 Primer Challenge</b>.
 
 
 ### Back End
@@ -27,12 +27,12 @@
 * <b>21-08</b>. 
 * <b>28-08</b>. 
 * <b>04-09</b>. 
-* <b>25-09 Equipos + Comienzo de Segundo Challenger</b>.
+* <b>25-09 Equipos + Comienzo de Segundo Challenge</b>.
  
 ### IA
 * <b>02-10</b>. 
 * <b>09-10</b>. 
-* <b>16-10 Challenger 3 - Proyecto final</b>.
+* <b>16-10 Challenge 3 - Proyecto final</b>.
 
 ---
 #### Te compartimos link en el cual vamos a ir subiendo las herramienta a utilizar.
