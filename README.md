@@ -10,7 +10,7 @@
 
 ### Front End
 * <b>12-06</b> Principios de Desarrollo Web. 
-* <b>19-06</b> Con esto si puedo vender ;). 
+* <b>19-06</b> Maquetación y Dinamismo Web con Bootstrap y jQuery. 
 * <b>26-06</b> Hola Mundo desde Angular :). 
 * <b>03-07</b>. 
 * <b>10-07</b>. 
