@@ -44,8 +44,10 @@ Para cada clase, habilitaremos un nuevo repositorio y lo adjuntaremos en este te
 Los nombres de los cursos se actualizarán con cada nueva clase. <br>
 Al final de cada sesión, indicaremos el software que deberá instalarse para la clase siguiente.
 
-#### Kick OFF
-[Te compartimos la presentación por si te la perdiste.](https://github.com/calvarezmanzo/BootcampSocius2024/blob/main/Bienvenida%20-%20Bootcamp%202024.pdf)
+#### Link de Interes
+* [Kick Off.](https://github.com/calvarezmanzo/BootcampSocius2024/blob/main/Bienvenida%20-%20Bootcamp%202024.pdf)
+* [Formulario Bootcamp 2024 BIARQ.](https://forms.office.com/r/g7FDR6H54z)
+
 
 
 ---
