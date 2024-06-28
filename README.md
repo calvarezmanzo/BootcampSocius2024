@@ -11,8 +11,8 @@
 ### Front End
 * <b>12-06</b> [Principios de Desarrollo Web.](https://github.com/calvarezmanzo/Principios-de-Desarrollo-Web) 
 * <b>19-06</b> [Maquetación y Dinamismo Web con Bootstrap y jQuery.](https://github.com/calvarezmanzo/Maquetaci-n-y-Dinamismo-Web-con-Bootstrap-y-jQuery.) 
-* <b>26-06</b> Hola Mundo desde Angular :). 
-* <b>03-07</b>. 
+* <b>26-06</b> [Hola Mundo / GIT +  Angular](https://github.com/calvarezmanzo/Hola-Mundo-GIT-Angular)
+* <b>03-07</b> Paseo por Angular. 
 * <b>10-07</b>. 
 * <b>17-07 Primer Challenge</b>.
 
